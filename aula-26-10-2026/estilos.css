@@ -1,0 +1,18 @@
+*{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom, rgba(126, 85, 9, 0.377), blue, rgb(0, 0, 0));
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(206, 142, 5);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(42, 3, 68);
+    text-align: right;
+}
